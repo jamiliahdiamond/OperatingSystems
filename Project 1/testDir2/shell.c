@@ -1,4 +1,4 @@
-// project 1 bt Jamiliah Eubanks & Rabia Mamo
+// project 1 by Jamiliah Eubanks & Rabia Mamo
 
 #include <stdbool.h>
 #include <stdio.h>
